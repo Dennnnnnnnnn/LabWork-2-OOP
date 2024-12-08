@@ -1,0 +1,9 @@
+﻿Zalgiris;6
+Surname1;Name1;1,85;6;7;1
+Surname2;DName2;1,87;6;7;2
+Surname3;BName3;1,87;6;7;1
+Surname4;Name4;1,83;1;7;0
+Surname5;AName5;1,87;4;7;3
+Surname6;Name6;1,80;6;7;1
+Surname7;AName7;1,87;6;7;0
+Surname8;AName8;1,87;6;7;3

@@ -1,0 +1,5 @@
+﻿MyTeam;15
+ASurname1;AName1;1,89;5;25;3
+DSurname2;DName2;1,77;15;100;7
+CSurname3;CName3;1,88;15;200;5
+BSurname4;BName4;2,00;15;30;10

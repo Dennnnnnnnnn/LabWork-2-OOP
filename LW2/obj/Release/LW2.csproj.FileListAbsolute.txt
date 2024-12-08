@@ -1,0 +1,8 @@
+C:\Users\dsunt\Desktop\C#\LW2\LW2\bin\Release\U3.txt
+C:\Users\dsunt\Desktop\C#\LW2\LW2\bin\Release\LW2.exe.config
+C:\Users\dsunt\Desktop\C#\LW2\LW2\bin\Release\LW2.exe
+C:\Users\dsunt\Desktop\C#\LW2\LW2\bin\Release\LW2.pdb
+C:\Users\dsunt\Desktop\C#\LW2\LW2\obj\Release\LW2.csproj.AssemblyReference.cache
+C:\Users\dsunt\Desktop\C#\LW2\LW2\obj\Release\LW2.csproj.CoreCompileInputs.cache
+C:\Users\dsunt\Desktop\C#\LW2\LW2\obj\Release\LW2.exe
+C:\Users\dsunt\Desktop\C#\LW2\LW2\obj\Release\LW2.pdb
